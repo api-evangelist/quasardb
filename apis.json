@@ -1,0 +1,60 @@
+{
+    "name": "quasardb",
+    "description": "quasardb is a distributed time series database with support for server-side aggregations. It scales horizontally and vertically for virtually unlimited capabilities, making it a popular choice for low-latency and Big Data applications.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28159-www-quasardb-net.jpg",
+    "tags": [
+        "databases",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/quasardb\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "quasardb",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28159-www-quasardb-net.jpg",
+            "humanURL": "http:\/\/www.quasardb.net",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/quasardb-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/quasardb-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.quasardb.net"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/bureau-14"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/doc.quasardb.net\/master\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/doc.quasardb.net\/master\/api\/rest.html"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/quasardb"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.quasardb.net"
+        }
+    ]
+}
